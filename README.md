@@ -1,16 +1,16 @@
-### Hey there 👋
+## Hey there 👋
 
 I am Govind B Chandran, currently a 3rd year B.tech student at Mar Baselios, Trivandrum.
 
 
 I am really interested in **Technology** and am a  **keen learner**. 
 
-## I can help u with:
+### I can help u with:
 * Web development
 * Flutter apps
 * Machine learning
 
-## Summary of what I'm working on
+### Summary of what I'm working on
 
 
 - 🔭 I’m currently working on Full-Stack Web Development.
