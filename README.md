@@ -5,10 +5,12 @@ I am Govind B Chandran, currently a 3rd year B.tech student at Mar Baselios, Tri
 
 I am really interested in **Technology** and a **keen learner**. 
 
-# I can help u with:
+## I can help u with:
 * Web development
 * Flutter apps
 * Machine learning
+
+## Summary of what I'm working on
 
 
 - 🔭 I’m currently working on Full-Stack Web Development
@@ -19,6 +21,8 @@ I am really interested in **Technology** and a **keen learner**.
 
 Just mail me <a href="mailto:govindchandran150@gmail.com"> here <a> 
  
- Here's my <a href= "https://chandran-jr.github.io/resume/"> resume <a>
+Here's my <a href= "https://chandran-jr.github.io/resume/"> resume <a>
+ 
+
 
 
