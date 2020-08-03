@@ -9,6 +9,8 @@ I am really interested in **Technology** and am a  **keen learner**.
 * Web development
 * Flutter apps
 * Machine learning
+* IoT
+* Python, C
 
 ### Summary of what I'm working on
 
