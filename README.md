@@ -1,7 +1,15 @@
 ### Hey there 👋
 
 I am Govind B Chandran, currently a 3rd year B.tech student at Mar Baselios, Trivandrum.
-I am really interested in **Technology** and a **keen learner**
+
+
+I am really interested in **Technology** and a **keen learner**. 
+
+# I can help u with:
+* Web development
+* Flutter apps
+* Machine learning
+
 
 - 🔭 I’m currently working on Full-Stack Web Development
 - 🌱 I’m currently learning Flutter and Data Science
@@ -10,5 +18,7 @@ I am really interested in **Technology** and a **keen learner**
 - 💬 Ask me about Web dev, AI stuff, Tech in general
 
 Just mail me <a href="mailto:govindchandran150@gmail.com"> here <a> 
+ 
+ Here's my <a href= "https://chandran-jr.github.io/resume/"> resume <a>
 
 
