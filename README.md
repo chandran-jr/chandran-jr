@@ -20,7 +20,7 @@ I am really interested in **Technology** and am a  **keen learner**.
 - 💬 Ask me about Web dev, AI stuff, tech in general.
 - 💙 I love cricket, memes, sarcasm, dark humour and food.
 
-Just mail me <a href="mailto:govindchandran150@gmail.com"> here <a> 
+Just mail me <a color= "green" href="mailto:govindchandran150@gmail.com"> here <a> 
  
 Here's my <a href= "https://chandran-jr.github.io/resume/"> resume <a>
  
