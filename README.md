@@ -21,6 +21,8 @@ I am really interested in **Technology** and am a  **keen learner**.
 - 🤔 I’m looking for help with Deep Learning.
 - 💬 Ask me about Web dev, AI stuff, tech in general.
 - 💙 I love cricket, memes, sarcasm, dark humour, food, gaming and other stuff too.
+
+
 Just mail me <a background-color= "green" href="mailto:govindchandran150@gmail.com"> here <a> 
  
 Here's my <a href= "https://chandran-jr.github.io/resume/"> resume <a>
