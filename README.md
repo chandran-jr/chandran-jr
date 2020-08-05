@@ -27,6 +27,8 @@ Just mail me <a background-color= "green" href="mailto:govindchandran150@gmail.c
  
 Here's my <a href= "https://chandran-jr.github.io/resume/"> resume <a>
  
+My <a href="https://www.linkedin.com/in/govind-chandran-46821a193?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BAlk0tAVwQpCQtm2oyhd9oQ%3D%3D"> LinkedIn </a> profile
+ 
  ![Govind's github stats](https://github-readme-stats.vercel.app/api?username=chandran-jr&show_icons=true&theme=radical&hide=issues)
  
  
