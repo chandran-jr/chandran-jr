@@ -23,7 +23,7 @@ I am really interested in **Technology** and am a  **keen learner**.
 - 💙 I love cricket, memes, sarcasm, dark humour, food, gaming and other stuff too.
 
 
-Just mail me <a background-color= "green" href="mailto:govindchandran150@gmail.com"> here <a> 
+### <a  href="mailto:govindchandran150@gmail.com"> Mail Me </a> 
  
 Here's my <a href= "https://chandran-jr.github.io/resume/"> resume <a>
  
