@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I am **Govind B Chandran**, currently a **3rd year B.tech student** at **Mar Baselios, Trivandrum**.
+I am **Govind B Chandran** currently a **3rd year B.tech student** at **Mar Baselios, Trivandrum**.
 
 
 I am really interested in **Technology** and am a  **keen learner**. 
