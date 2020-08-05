@@ -29,6 +29,9 @@ Here's my <a href= "https://chandran-jr.github.io/resume/"> resume <a>
  
  ![Govind's github stats](https://github-readme-stats.vercel.app/api?username=chandran-jr&show_icons=true&theme=radical)
  
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chandran-jr&layout=compact)](https://github.com/chandran-jr/github-readme-stats)
+ 
 
 
 
