@@ -27,6 +27,8 @@ Just mail me <a background-color= "green" href="mailto:govindchandran150@gmail.c
  
 Here's my <a href= "https://chandran-jr.github.io/resume/"> resume <a>
  
+ ![Govind's github stats](https://github-readme-stats.vercel.app/api?username=chandran-jr&show_icons=true&theme=radical)
+ 
 
 
 
