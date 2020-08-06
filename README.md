@@ -20,7 +20,7 @@ I am really interested in **Technology** and am a  **keen learner**.
 - 👯 I’m looking to collaborate on Web, app and ML projects.
 - 🤔 I’m looking for help with Deep Learning.
 - 💬 Ask me about Web dev, AI stuff, tech in general.
-- 💙 I love cricket, memes, sarcasm, dark humour, food, gaming and other stuff too
+- 💙 I love cricket, memes, sarcasm, dark humour, food, gaming and other stuff too.
 
 
 ### <a  href="mailto:govindchandran150@gmail.com"> Mail Me </a> 
