@@ -6,7 +6,7 @@ I am **Govind B Chandran**, currently a **3rd year B.tech student** at **Mar Bas
 I am really interested in **Technology** and am a  **keen learner**. 
 
 ### I can help u with:
-* Web development
+* Web development..
 * Flutter apps
 * Machine learning
 * IoT
