@@ -16,7 +16,7 @@ I am really interested in **Technology** and am a  **keen learner**.
 
 
 - 🔭 I’m currently working on Full-Stack Web Development.
-- 🌱 I’m currently learning Flutter and Data Science and cyber security.
+- 🌱 I’m currently learning Flutter and Data Science cyber security and webscraping.
 - 👯 I’m looking to collaborate on Web, app and ML projects.
 - 🤔 I’m looking for help with Deep Learning.
 - 💬 Ask me about Web dev, AI stuff, tech in general.
