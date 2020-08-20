@@ -52,7 +52,7 @@ I am really interested in **Technology** and am a  **keen learner**.
   <img alt="express" src="https://img.shields.io/badge/-express.js-43853d?style=flat-square&logo=express.js&logoColor=white" />
  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=Flutter&logoColor=white" />
  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-orange?style=flat-square&logo=Firebase&logoColor=white" />
- <img alt="express" src="https://img.shields.io/badge/-express.js-43853d?style=flat-square&logo=express.js&logoColor=white" />
+
 </p>
 
 <h3>Where to find me</h3>
