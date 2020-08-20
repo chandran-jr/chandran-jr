@@ -61,7 +61,7 @@ I am really interested in **Technology** and am a  **keen learner**.
 <h3>Where to find me</h3>
 <p><a href="https://github.com/chandran-jr" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/govind-chandran-46821a193?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BAlk0tAVwQpCQtm2oyhd9oQ%3D%3D" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  <a href="mailto:govindchandran150@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%230077BS.svg?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
- <a href="https://instagram.com/chandran.jr" target="_blank"><img alt="instagram" src="https://img.shields.io/badge/Instagram-%233451BE.svg?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+ <a href="https://instagram.com/chandran.jr" target="_blank"><img alt="instagram" src="https://img.shields.io/badge/Instagram-purple.svg?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 </p>
 
  
