@@ -45,7 +45,7 @@ I am really interested in **Technology** and am a  **keen learner**.
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="jquery" src="https://img.shields.io/badge/-Jquery-yellow?style=flat-square&logo=jquery&logoColor=white" />
- <img alt="sql" src="https://img.shields.io/badge/-sql-blue?style=flat-square&logo=sql&logoColor=white" />
+ <img alt="sql" src="https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=sql&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
