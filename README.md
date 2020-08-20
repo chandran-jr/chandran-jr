@@ -35,7 +35,7 @@ I am really interested in **Technology** and am a  **keen learner**.
   <img alt="Python" src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C-black?style=flat-square&logo=c&logoColor=white" /> 
   <img alt="C++" src="https://img.shields.io/badge/-C++-pink?style=flat-square&logo=C++r&logoColor=white" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-lightyellow?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
