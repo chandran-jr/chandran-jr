@@ -31,7 +31,7 @@ I am really interested in **Technology** and am a  **keen learner**.
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chandran-jr&layout=compact)](https://github.com/chandran-jr/github-readme-stats)
 
-<h3>Things I code with</h3>
+<h3>Things I code/work with</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C-black?style=flat-square&logo=c&logoColor=white" /> 
