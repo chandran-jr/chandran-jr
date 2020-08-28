@@ -12,7 +12,7 @@ I am really interested in **Technology** and am a  **keen learner**.
 * Machine learning
 * IoT
 * Python, C, Java, C++, Javascript
-* Small scale designing
+* Simple designing
 
 ### Summary of what I'm working on
 
