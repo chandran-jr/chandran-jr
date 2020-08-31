@@ -54,6 +54,7 @@ I am really interested in **Technology** and am a  **keen learner**.
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="express" src="https://img.shields.io/badge/-Express.js-43853d?style=flat-square&logo=express&logoColor=white" />
  <img alt="react" src="https://img.shields.io/badge/-React.js-blue?style=flat-square&logo=react&logoColor=white" />
+  <img alt="mongoose" src="https://img.shields.io/badge/-Mongoose-green?style=flat-square&logo=mongoose&logoColor=white" />
  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=Flutter&logoColor=white" />
 
 </p>
