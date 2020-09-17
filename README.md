@@ -1,7 +1,7 @@
 
  <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h2>
 
-I am **Govind B Chandran**, currently a **3rd year B.tech student** at **Mar Baselios, Trivandrum**.
+I am **Govind B Chandran** currently a **3rd year B.tech student** at **Mar Baselios, Trivandrum**.
 
 
 I am really interested in **Technology** and am a  **keen learner**. 
