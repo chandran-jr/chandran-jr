@@ -37,7 +37,6 @@ I am really interested in **Technology** and am a  **keen learner**.
   <img alt="C" src="https://img.shields.io/badge/-C-black?style=flat-square&logo=c&logoColor=white" /> 
   <img alt="C++" src="https://img.shields.io/badge/-C++-pink?style=flat-square&logo=cplusplus&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7B93E?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/-PHP-43853d?style=flat-square&logo=php&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-brown?style=flat-square&logo=java&logoColor=white" />
   <img alt="Dart" src="https://img.shields.io/badge/-Dart-royalblue?style=flat-square&logo=dart&logoColor=white" />
   <img alt="Go" src="https://img.shields.io/badge/-Go-aqua?style=flat-square&logo=go&logoColor=white" />
@@ -48,9 +47,7 @@ I am really interested in **Technology** and am a  **keen learner**.
  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap&logoColor=white" />
-  <img alt="jquery" src="https://img.shields.io/badge/-Jquery-yellow?style=flat-square&logo=jquery&logoColor=white" />
  <img alt="sql" src="https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="express" src="https://img.shields.io/badge/-Express.js-43853d?style=flat-square&logo=express&logoColor=white" />
  <img alt="react" src="https://img.shields.io/badge/-React.js-blue?style=flat-square&logo=react&logoColor=white" />
