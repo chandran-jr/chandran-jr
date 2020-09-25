@@ -41,8 +41,8 @@ I am really interested in **Technology** and am a  **keen learner**.
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css" src="https://img.shields.io/badge/-CSS3-bluegrey?style=flat-square&logo=css3&logoColor=white" />
    <img alt="Bootstrap4" src="https://img.shields.io/badge/-Bootstrap4-purple?style=flat-square&logo=bootstrap&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="express" src="https://img.shields.io/badge/-Express.js-43853d?style=flat-square&logo=express&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="express" src="https://img.shields.io/badge/-Express.js-43853d?style=flat-square&logo=Express.js&logoColor=white" />
  <img alt="react" src="https://img.shields.io/badge/-React.js-blue?style=flat-square&logo=react&logoColor=white" />
  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=Flutter&logoColor=white" />
 
