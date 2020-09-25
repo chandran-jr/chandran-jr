@@ -3,8 +3,6 @@
 
 I am **Govind B Chandran** currently a **3rd year B.tech student** at **Mar Baselios, Trivandrum**.
 
-![](https://komarev.com/ghpvc/?username=chandran-jr&color=blueviolet)
-
 
 I am really interested in **Technology** and am a  **keen learner**. 
 
@@ -40,16 +38,8 @@ I am really interested in **Technology** and am a  **keen learner**.
   <img alt="C++" src="https://img.shields.io/badge/-C++-pink?style=flat-square&logo=cplusplus&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7B93E?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-brown?style=flat-square&logo=java&logoColor=white" />
-  <img alt="Dart" src="https://img.shields.io/badge/-Dart-royalblue?style=flat-square&logo=dart&logoColor=white" />
-  <img alt="Go" src="https://img.shields.io/badge/-Go-aqua?style=flat-square&logo=go&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css" src="https://img.shields.io/badge/-CSS3-bluegrey?style=flat-square&logo=css3&logoColor=white" />
- <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Github" src="https://img.shields.io/badge/-Github-black?style=flat-square&logo=github&logoColor=white" />
- <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap&logoColor=white" />
- <img alt="sql" src="https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="express" src="https://img.shields.io/badge/-Express.js-43853d?style=flat-square&logo=express&logoColor=white" />
  <img alt="react" src="https://img.shields.io/badge/-React.js-blue?style=flat-square&logo=react&logoColor=white" />
