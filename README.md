@@ -3,6 +3,8 @@
 
 I am **Govind B Chandran** currently a **3rd year B.tech student** at **Mar Baselios, Trivandrum**.
 
+![](https://komarev.com/ghpvc/?username=chandran-jr&color=blueviolet)
+
 
 I am really interested in **Technology** and am a  **keen learner**. 
 
