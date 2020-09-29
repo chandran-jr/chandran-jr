@@ -55,13 +55,22 @@
 
 </p>
 
-
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
-                width="28" /> To connect with me</h2></summary>
-
-
+                width="28" /> Find me here👇</h2></summary>
 
 <p align = "center">
+ 
+[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">]()
+[<img src="https://img.shields.io/badge/mail-%231DA1F2.svg?&style=for-the-badge&logo=mail&logoColor=white" />](mailto:govindchandran150@gmail.com) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/govind-chandran-46821a193/)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/chandran.jr)
+[![Visits Badge](https://badges.pufler.dev/visits/RahulMahesh62/RahulMahesh62?style=for-the-badge)](https://github.com/chandran-jr)
+
+</p>
+
+
+
+
 
  
 
