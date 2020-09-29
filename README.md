@@ -62,15 +62,12 @@
 
 
 <p align = "center">
-  
+ 
+ <p><a href="https://github.com/chandran-jr" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/govind-chandran-46821a193)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/_rahulmahesh62_/)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/chandran.jr/)
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/rahul.mahesh.948/) 
-[![Visits Badge](https://badges.pufler.dev/visits/chandran-jr/chandran-jr?style=for-the-badge)](https://github.com/chandran-jr)
-<p><a href="https://github.com/chandran-jr" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/govind-chandran-46821a193?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BAlk0tAVwQpCQtm2oyhd9oQ%3D%3D" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  <a href="mailto:govindchandran150@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-red.svg?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
- <a href="https://instagram.com/chandran.jr" target="_blank"><img alt="instagram" src="https://img.shields.io/badge/Instagram-purple.svg?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-</p>
 
  
 
