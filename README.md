@@ -25,7 +25,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rahulmahesh/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/_rahulmahesh62_/)
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/rahul.mahesh.948/) 
-[![Visits Badge](https://badges.pufler.dev/visits/RahulMahesh62/RahulMahesh62?style=for-the-badge)](https://github.com/RahulMahesh62)
+[![Visits Badge](https://badges.pufler.dev/visits/chandran-jr/chandran-jr?style=for-the-badge)](https://github.com/chandran-jr)
 
 ### I can help u with:
 * Web development
@@ -45,7 +45,7 @@
 
 <p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api?username=chandran-jr&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=32">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=chandran-jr&theme=vue">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=chandran-jr&theme=vue&hide=ASP.NET">
 </p>
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" align="center"
