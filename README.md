@@ -54,7 +54,7 @@
  <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/tensorflow/tensorflow-original-wordmark.svg" alt="tensorflow" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/tensorflow2/tensorflow2-original-wordmark.svg" alt="tensorflow" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/opencv/opencv-original-wordmark.svg" alt="opencv" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/> 
  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
