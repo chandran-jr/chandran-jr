@@ -1,4 +1,3 @@
-<h1><p align="center">Hey! I'm Govind B Chandran <a href="https://www.linkedin.com/in/govind-chandran-46821a193?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BAlk0tAVwQpCQtm2oyhd9oQ%3D%3D" target="_blank"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
 
 <p align="center" ><img 
  src="https://user-images.githubusercontent.com/22797857/90096298-b90f4b00-dd54-11ea-9a31-00ad53f8ec04.gif" width="40%"/></p>
