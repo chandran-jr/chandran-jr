@@ -45,7 +45,7 @@
  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
 
  
-### <a href= "https://chandran-jr.github.io/resume/"> My Resume <a>
+### <a href= "https://chandran-jr.github.io/resume/" target="null"> My Resume <a>
 
 
 
