@@ -15,19 +15,6 @@
 - 💬 Ask me about Flutter, Web, Cricket, AI, Tech in general.
 - 💙 I love cricket, memes, sarcasm, dark humour, food, gaming and other stuff too.
 
-<p align = "center">
-
-### I can help u with:
-* Web development
-* Flutter apps
-* Machine learning
-* IoT
-* Python, C, Java, C++, Javascript
-* Designing
-
-
-</p>
-
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center"
                 width="28" /> My Github Stats</h2> </summary>
 
