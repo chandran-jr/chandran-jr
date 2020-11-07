@@ -9,10 +9,7 @@
                 width="28" /> What I currently do</h2></summary>
 
 - 🔭 I'm working on Full-Stack Web Development.
-- 🌱 I’m currently learning React, Flutter and Cyber Security.
 - 👯 I’m looking to collaborate on Web and Flutter applications
-- 🤔 I’m looking for help with Deep Learning
-- 💬 Ask me about Flutter, Web, Cricket, AI, Tech in general.
 - 💙 I love cricket, memes, sarcasm, dark humour, food, gaming and other stuff too.
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center"
