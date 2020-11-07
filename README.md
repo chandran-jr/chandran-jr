@@ -3,7 +3,7 @@
 <p align="center" ><img 
  src="https://user-images.githubusercontent.com/22797857/90096298-b90f4b00-dd54-11ea-9a31-00ad53f8ec04.gif" width="40%"/></p>
 
-<p align="center">I'm a student developer,designer and a technoholic.<br>Currently studying in MBCET and pursuing B.Tech CS <br>I specialize in Web-Development and Flutter and Data Science<br> I also love cricket, memes, designing, etc.<br></p>
+<p align="center">I'm a student developer,designer and a technoholic.<br>Currently studying in MBCET and pursuing B.Tech CS <br>
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
                 width="28" /> What I currently do</h2></summary>
