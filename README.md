@@ -5,7 +5,7 @@
 <p align="center">I'm a student developer,designer and a technoholic.<br>Currently studying in MBCET and pursuing B.Tech CS <br>
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
-                width="28" /> What I currently do</h2></summary>
+                width="28" /> Currently</h2></summary>
 
 - 🔭 I'm working on Full-Stack Web Development.
 - 👯 I’m looking to collaborate on Web and Flutter applications
