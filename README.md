@@ -2,7 +2,7 @@
 <p align="center" ><img 
  src="https://user-images.githubusercontent.com/22797857/90096298-b90f4b00-dd54-11ea-9a31-00ad53f8ec04.gif" width="40%"/></p>
 
-<p align="center">I'm a student developer,designer and a technoholic.<br>Currently studying in MBCET and pursuing B.Tech CS <br>
+<p align="center">Designer by day, Developer by night.<br>Currently studying in MBCET and pursuing B.Tech CS <br>
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
                 width="28" /> Currently</h2></summary>
@@ -42,7 +42,6 @@
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-   <img src="https://devicons.github.io/devicon/devicon.git/icons/figma/figma-original-wordmark.svg" alt="mysql" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/> 
  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
 
