@@ -7,7 +7,6 @@
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
                 width="28" /> Currently</h2></summary>
 
-- 🔭 I'm working on Full-Stack Web Development, learning all day.
 - 👯 I’m looking to collaborate on Web and Flutter applications
 - 💙 I love cricket, memes, sarcasm, dark humour, food, gaming and other stuff too.
 
