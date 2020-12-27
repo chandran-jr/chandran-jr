@@ -35,7 +35,6 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
  <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-   <img src="https://devicons.github.io/devicon/devicon.git/icons/materialui/materialui-original-wordmark.svg" alt="material-ui" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/> 
  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
@@ -46,7 +45,7 @@
  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
 
  
-### <a href= "https://chandran-jr.github.io/resume/" target="null"> My Resume <a>
+### <a href= "https://chandran-jr.github.io/Resume/" target="null"> My Resume <a>
 
 
 
