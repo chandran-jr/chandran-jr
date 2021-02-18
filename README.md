@@ -3,7 +3,7 @@
  src="https://user-images.githubusercontent.com/22797857/90096298-b90f4b00-dd54-11ea-9a31-00ad53f8ec04.gif" width="40%"/></p>
 
 <p align="center"> ⚡⚡⚡ <br> Student dev <br> Note:- Please tip me on Brave if you find any of my repos useful or G-Pay 1 dollar atleast😅 <br> Would help me a lot. <br>
-My number: +91 8330024549 <p>
+My number: +91 8330025649 <p>
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
                 width="28" /> Currently</h2></summary>
