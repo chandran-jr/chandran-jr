@@ -2,29 +2,19 @@
 <p align="center" ><img 
  src="https://user-images.githubusercontent.com/22797857/90096298-b90f4b00-dd54-11ea-9a31-00ad53f8ec04.gif" width="40%"/></p>
 
-<p align="center"> ⚡⚡⚡ <br> Student dev <br> Note:- Please tip me on G-Pay if you find any of my repos useful. <br> Would help me a lot going forward. Thanks😃. <br>
-My number: +91 8330025649 <p>
+<p align="center"> ⚡⚡⚡ <br> Student dev <br> Note:- Please tip us on G-Pay if you find any of our repos useful. <br> Would help me a lot going forward. Thanks😃. <br>
+Our number: +91 8330025649 <p>
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
                 width="28" /> Currently</h2></summary>
 
-- 👯 I’m looking to collaborate on Web and Flutter applications
-- 💙 I love cricket, memes, sarcasm, dark humour, food, gaming and other stuff too.
-
-<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center"
-                width="28" /> My Github Stats</h2> </summary>
-
 <br>
 
-<p align = "left">
-  <img src = "https://github-readme-stats.vercel.app/api?username=chandran-jr&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=32">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=chandran-jr&theme=vue&hide=ASP.NET">
-</p>
 
 
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
-                width="28" /> Find me here</h2></summary>
+                width="28" /> Find us here!</h2></summary>
 
 <p align = "center">
  
