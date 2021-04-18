@@ -1,3 +1,4 @@
+<h1> Welcome to DevBees' Github Channel!!</h1> <br
 
 <p align="center" ><img 
  src="https://user-images.githubusercontent.com/22797857/90096298-b90f4b00-dd54-11ea-9a31-00ad53f8ec04.gif" width="40%"/></p>
@@ -5,8 +6,6 @@
 <p align="center"> ⚡⚡⚡ Note:- Please tip us on G-Pay if you find any of our repos useful. <br> Would help me a lot going forward. Thanks😃. <br>
 Our number: +91 8330025649 <p>
 
-<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
-                width="28" /> Currently</h2></summary>
 
 <br>
 
