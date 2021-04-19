@@ -18,7 +18,7 @@ My number: +91 8330025649 <p>
 
 <p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api?username=chandran-jr&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=32">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=chandran-jr&theme=vue&hide=Jupyter Notebook & ASP.NET & HTML">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=chandran-jr&theme=vue&hide=Jupyter Notebook">
 </p>
 
 
