@@ -1,18 +1,7 @@
-<h1 align="center"> Welcome to DevBees' Github Channel!!</h1> <br>
-
 <img src="Devbees (2).png" />
-
-<p align="center" ><img 
- src="https://user-images.githubusercontent.com/22797857/90096298-b90f4b00-dd54-11ea-9a31-00ad53f8ec04.gif" width="40%"/></p>
-
-<p align="center"> ⚡⚡⚡ <br> Note:- Please tip us on G-Pay if you find any of our repos useful. <br> Would help me a lot going forward. Thanks😃. <br>
-Our number: +91 8330025649 <p>
 
 
 <br>
-
-
-
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
                 width="28" /> Find us here!</h2></summary>
