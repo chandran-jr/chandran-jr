@@ -1,4 +1,4 @@
-<img height="300px" src="Devbees (2).png" />
+<img src="Devbees (2).png" />
 
 
 <br>
