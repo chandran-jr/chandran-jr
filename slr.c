@@ -231,3 +231,14 @@ void show()
     }
    // printf("\n");
 }
+
+
+E->E+E
+
+          E->E/E
+
+          E->E*E
+
+          E->a/b
+          
+a+b
