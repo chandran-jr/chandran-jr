@@ -1,5 +1,5 @@
 
-<img src="banner.png"/>
+<img src="Banner.png"/>
 
 <p align="center"> ⚡⚡⚡ <br> Student dev <br> Note:- Please tip me on G-Pay if you find any of my repos useful. <br> Would help me a lot going forward. Thanks😃. <br>
 My number: +91 8330025649 <p>
