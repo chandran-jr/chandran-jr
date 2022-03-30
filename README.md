@@ -1,6 +1,5 @@
 
-<p align="center" ><img 
- src="https://user-images.githubusercontent.com/22797857/90096298-b90f4b00-dd54-11ea-9a31-00ad53f8ec04.gif" width="40%"/></p>
+<img src="banner.PNG"/>
 
 <p align="center"> ⚡⚡⚡ <br> Student dev <br> Note:- Please tip me on G-Pay if you find any of my repos useful. <br> Would help me a lot going forward. Thanks😃. <br>
 My number: +91 8330025649 <p>
