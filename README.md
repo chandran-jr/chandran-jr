@@ -1,9 +1,6 @@
 
 <img src="Banner.png"/>
 
-<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center"
-                width="28" /> My Github Stats</h2> </summary>
-
 <br>
 
 <p align="center">
