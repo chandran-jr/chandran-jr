@@ -1,12 +1,6 @@
 
 <img src="Banner.png"/>
 
-<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
-                width="28" /> Currently</h2></summary>
-
-- 👯 I’m looking to collaborate on Web and Data Science applications
-- 💙 I love cricket, memes, sarcasm, dark humour, tech,  food, gaming and other stuff too.
-
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center"
                 width="28" /> My Github Stats</h2> </summary>
 
@@ -14,7 +8,7 @@
 
 <p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api?username=chandran-jr&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=32">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=chandran-jr&theme=vue&hide=Jupyter Notebook">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=chandran-jr&theme=vue&hide=HTML">
 </p>
 
 
