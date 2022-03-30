@@ -1,9 +1,6 @@
 
 <img src="Banner.png"/>
 
-<p align="center"> ⚡⚡⚡ <br> Student dev <br> Note:- Please tip me on G-Pay if you find any of my repos useful. <br> Would help me a lot going forward. Thanks😃. <br>
-My number: +91 8330025649 <p>
-
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
                 width="28" /> Currently</h2></summary>
 
