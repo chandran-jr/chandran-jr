@@ -4,7 +4,7 @@
 <br>
 
 <p align="center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=chandran-jr&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=32">
+  <img src = "https://github-readme-stats.vercel.app/api?username=chandran-jr&show_icons=true&count_private=true&theme=dark&hide=issues&line_height=32">
 </p>
 
 <p>I am a React developer from Mar Baselios College of Engineering and Technology currently pursuing the final year of Computer Science Engineering. I have experience working with and Machine Learning, Figma and a bit of Blockchain as well</p>
