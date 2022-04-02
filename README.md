@@ -9,7 +9,7 @@
 
 <p>I am a React developer from Mar Baselios College of Engineering and Technology currently pursuing the final year of Computer Science Engineering. I have experience working with and Machine Learning, Figma and a bit of Blockchain as well</p>
 
-<p>I am currently looking into Next.js and slowly digging my way into the web 3.0 universe. Studying the concept of solidity and blockchain, learning Etherium and Solana slowly. I focus on product development and management too. I am an empathetic person by which I am able to communicate and understand my colleagues. I am a hustler and a lover of new tech, trying to understand how the universe works and the purpose of our existence. Plays cricket and football, loves memes, dark humour, food, gaming etc.</p>
+<p>I am currently looking into Next.js and slowly digging my way into the web 3.0 universe. Studying the concept of solidity and blockchain, learning Ethereum and Solana slowly. I focus on product development and management too. I am an empathetic person by which I am able to communicate and understand my colleagues. I am a hustler and a lover of new tech, trying to understand how the universe works and the purpose of our existence. Plays cricket and football, loves memes, dark humour, food, gaming etc.</p>
 
 <h2 align="center">Connect Me !! 🤝</h2> 
 
