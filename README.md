@@ -1,5 +1,5 @@
 
-<img src="BannerNew.png"/>
+<img src="Banner for github.png"/>
 
 <br>
 
